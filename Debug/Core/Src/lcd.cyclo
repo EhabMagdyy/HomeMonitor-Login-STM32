@@ -1,0 +1,11 @@
+../Core/Src/lcd.c:14:13:Delay_US	2
+../Core/Src/lcd.c:35:6:lCD_Init	2
+../Core/Src/lcd.c:57:6:LCD_Send_Command	2
+../Core/Src/lcd.c:70:6:LCD_Send_Char	2
+../Core/Src/lcd.c:84:6:LCD_Send_Char_Pos	2
+../Core/Src/lcd.c:94:6:LCD_Send_String	4
+../Core/Src/lcd.c:105:6:LCD_Send_String_Pos	3
+../Core/Src/lcd.c:115:6:LCD_Send_Custom_Character	3
+../Core/Src/lcd.c:129:13:LCD_Send_4bit	3
+../Core/Src/lcd.c:141:13:LCD_Send_Enable_Signal	2
+../Core/Src/lcd.c:152:13:LCD_Set_Cursor	6

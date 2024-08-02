@@ -1,0 +1,6 @@
+../Core/Src/DHT22.c:14:13:Set_Pin_Input	1
+../Core/Src/DHT22.c:23:13:Set_Pin_Output	1
+../Core/Src/DHT22.c:34:13:Delay_US	2
+../Core/Src/DHT22.c:41:6:DHT22_Start	4
+../Core/Src/DHT22.c:56:9:DHT22_Read	6
+../Core/Src/DHT22.c:77:9:DHT22_Get_Reading	3
